@@ -59,7 +59,7 @@
         text-align: center;
     }
     .escola__paragrafo{
-        text-align: start;
+        text-align: center;
     }
     
     .professores{
@@ -67,7 +67,7 @@
         grid-template-columns:1fr 1fr 1fr ;
         grid-template-rows: auto auto auto auto;
         background-color: #ffffff;
-        border-radius: 40px;
+        border-radius: 70px;
         margin: 20px;
         justify-items: center;
         gap: 20px
