@@ -33,7 +33,7 @@
     .cabecalho__menu-item{
         font-size: 15px;
         color:#ffffff
-        -webkit-text-stroke-width: 10px;
+        -webkit-text-stroke-width: 100px;
         -webkit-text-stroke-color: black;
         display: inline;
         margin: 0px 0px 0px 20px;
