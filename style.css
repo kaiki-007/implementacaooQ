@@ -17,7 +17,7 @@
     }
     
     .cabecalho__imagem {
-    
+    text-align: center;
     width: 180px;
     height: 250px;
     border-radius: 150px;
